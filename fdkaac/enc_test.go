@@ -23,7 +23,7 @@
 package fdkaac_test
 
 import (
-	"github.com/winlinvip/go-fdkaac/fdkaac"
+	"github.com/onedss/go-fdkaac/fdkaac"
 	"testing"
 )
 
